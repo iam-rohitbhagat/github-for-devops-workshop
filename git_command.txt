@@ -1,0 +1,8 @@
+###Git Command###
+git init---> initialising the empty repo
+git add .---> to add untracked file to staged area
+git commit -m "commit message"---> git commit to tracked the changes
+git status----> to check the statu
+git rm --cached filename--->to untracked the file
+git restore filename
+
