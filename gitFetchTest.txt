@@ -6,4 +6,8 @@ Git Fetch: git fetch download all the changes from remote repository to our loca
 and to make it in a synk we can use git merge or hot git rebase command.
 git fetch
 
+
 added changes
+
+added some changes.
+
