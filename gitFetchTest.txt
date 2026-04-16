@@ -5,3 +5,5 @@ We are doing git fetch practice.
 Git Fetch: git fetch download all the changes from remote repository to our local machin but it does not update in our working directory, it sotre in the remote tracking branch.
 and to make it in a synk we can use git merge or hot git rebase command.
 git fetch
+
+added changes
